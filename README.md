@@ -1,6 +1,6 @@
 # Path_following_simulation_LOS
 
-[LOS system](https://github.com/YueminGong/Path_following_simulation_LOS/blob/main/los.png)
+![LOS system](https://github.com/YueminGong/Path_following_simulation_LOS/blob/main/los.png)
 
 - path-following control system by combining the nonlinear 
 - three-degree-of-freedom dynamic model of the surface vehicle, the PID control algorithm, 
